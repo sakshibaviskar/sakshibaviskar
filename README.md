@@ -20,31 +20,22 @@
 
 ## 🛠️ Skills & Tools  
 
-### 🔹 Programming Languages & Frameworks  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
+### 🔹 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-### 🔹 Web Technologies  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+### 🔹 Web & Mobile Technologies  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
 
-### 🔹 Skill Progress Bars  
-- Python 🐍: ![80%](https://progress-bar.dev/80/?title=Python&color=3776AB)  
-- C / C++ ⚡: ![70%](https://progress-bar.dev/70/?title=C%2FC%2B%2B&color=00599C)  
-- Java ☕: ![75%](https://progress-bar.dev/75/?title=Java&color=007396)  
-- JavaScript 🌐: ![70%](https://progress-bar.dev/70/?title=JavaScript&color=F7DF1E)  
-- Flask ⚙️: ![65%](https://progress-bar.dev/65/?title=Flask&color=000000)  
-- UI/UX Design 🎨: ![60%](https://progress-bar.dev/60/?title=UI%2FUX&color=FF5C8D)  
-- Android 📱: ![65%](https://progress-bar.dev/65/?title=Android&color=3DDC84)  
+### 🔹 Other Interests  
+- Machine Learning 🤖  
+- UI/UX Design 🎯  
 
 ---
 
@@ -69,16 +60,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sakshibaviskar&theme=react-dark&area=true" alt="GitHub Contribution Graph" />
 </p>
-
----
-
-## 🏆 Projects Showcase  
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| AI Proctoring System | Online exam security using Python & Flask | Python, Flask, HTML/CSS | [GitHub](https://github.com/sakshibaviskar) |
-| UI/UX Portfolio | Designing intuitive web interfaces | Figma, HTML/CSS | [Portfolio](#) |
-| Android App Project | Mobile app development project | Java, Android Studio | [GitHub](https://github.com/sakshibaviskar) |
 
 ---
 
